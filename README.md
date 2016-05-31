@@ -48,6 +48,10 @@ server {
 }
 ```
 
+Accessing the META-SHARE node's file system, for administration purposes, is possible by issuing a Docker exec;
 
-
+```
+~$ docker exec -it metashare bash
+root@6a1a810049fb:/META-SHARE-3.0.2/metashare#
+```
 
