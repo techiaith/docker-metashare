@@ -2,7 +2,7 @@
 
 This project provides a Docker file and associated files that facilitates easy installation your own instance of a META-SHARE node. 
 
-META-SHARE is an open, integrated, secure and interoperable sharing and exchange facility for LRs (datasets and tools) for the Human Language Technologies domain and other applicative domains where language plays a critical role.
+[META-SHARE](http://www.meta-share.eu/) is an open, integrated, secure and interoperable sharing and exchange facility for LRs (datasets and tools) for the Human Language Technologies domain and other applicative domains where language plays a critical role.
 
 META-SHARE, the open language resource exchange facility, is devoted to the sustainable sharing and dissemination of language resources (LRs) and aims at increasing access to such resources in a global scale.
 
